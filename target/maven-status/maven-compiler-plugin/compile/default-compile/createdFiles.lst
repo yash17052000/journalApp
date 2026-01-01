@@ -1,0 +1,14 @@
+net\engineeringdigest\journalApp\repository\UserRepository.class
+net\engineeringdigest\journalApp\service\JournalEntryService.class
+net\engineeringdigest\journalApp\Controller\PublicController.class
+net\engineeringdigest\journalApp\service\UserService.class
+net\engineeringdigest\journalApp\config\SpringSecurity.class
+net\engineeringdigest\journalApp\Entity\User.class
+net\engineeringdigest\journalApp\Controller\JournalEntryControllerV2.class
+net\engineeringdigest\journalApp\Controller\AdminController.class
+net\engineeringdigest\journalApp\Entity\JournalEntry.class
+net\engineeringdigest\journalApp\JournalApplication.class
+net\engineeringdigest\journalApp\Controller\UserController.class
+net\engineeringdigest\journalApp\service\UserDetailsServiceImpl.class
+net\engineeringdigest\journalApp\Entity\User$UserBuilder.class
+net\engineeringdigest\journalApp\repository\JournalEntryRepository.class
